@@ -1,0 +1,2 @@
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "경로 /org/ayatana/bamf/window/25165834의 객체에 'com.canonical.dbusmenu' 인터페이스가 없습니다"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "경로 /org/ayatana/bamf/window/56623120의 객체에 'com.canonical.dbusmenu' 인터페이스가 없습니다"

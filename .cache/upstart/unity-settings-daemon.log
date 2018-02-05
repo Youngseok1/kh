@@ -1,0 +1,32 @@
+
+** (unity-settings-daemon:1637): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:1637): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(unity-settings-daemon:1637): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(unity-settings-daemon:1637): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(unity-settings-daemon:1637): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1637): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output

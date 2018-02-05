@@ -1,0 +1,2 @@
+
+(process:1691): Indicator-Datetime-WARNING **: indicator-datetime cannot connect to EDS source: '개인'에 연결할 수 없습니다: 달력을 열 수 없습니다: Cannot parse ISC file '/home/noh/.local/share/evolution/tasks/system/tasks.ics'
